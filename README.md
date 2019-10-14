@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Site settings
+title: Apple Health APP Evaluation
+SEOTitle: Shan Zhong
+header-img: img/post-bg-desk.jpg
+email: tirzs3@g.ucla.edu
+description: "Heuristic Evaluation"
+keyword: "UX, User Experience, Apple Health, Shan Zhong, 钟杉, iPhone"
+url: "http://ShanZ3.github.io"
+baseurl: ""
+github_repo: "https://github.com/ShanZ3/ShanZ.github.io"
 
-You can use the [editor on GitHub](https://github.com/ShanZ3/ShanZhong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Sidebar settings
+sidebar: true
+sidebar-about-description: "Goals determine what you going to be!"
+sidebar-avatar: /img/ShanZ.jpeg
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# SNS settings
+RSS: false
 
-### Markdown
+# Build settings
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
 
-```markdown
-Syntax highlighted code block
+# Markdown settings
+# replace redcarpet to kramdown,
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+input: GFM
 
-# Header 1
-## Header 2
-### Header 3
+# Featured Tags
+featured-tags: true
+featured-condition-size: 1
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShanZ3/ShanZhong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+theme: jekyll-theme-midnight
