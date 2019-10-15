@@ -47,32 +47,32 @@ Minimize the user's memory load by making objects, actions, and options visible.
 Instructions for use of the system should be visible or easily retrievable whenever appropriate.<br>
 
 >Comment: <br>
->It is easy for users to follow instructions for use of this app. There are only two buttons at the bottom of the interface  which direct users to find appropriate functions and therefore minimize users' memory load. (1)
+>* It is easy for users to follow instructions for use of this app. There are only two buttons at the bottom of the interface  which direct users to find appropriate functions and therefore minimize users' memory load. (1)
 
 ### 7): Flexibility and efficiency of use
 Accelerators — unseen by the novice user — may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. <br>
 
 >Comment: <br>
->The app does not have high flexibility and effinciency of use. Every time when the users want to add or change their health data, they have to manually type thier records. The app does not endorse speach recognition and does not has hot keys, though it does allow users records to be imported from third party platform. (2)
+>* The app does not have high flexibility and effinciency of use. Every time when the users want to add or change their health data, they have to manually type thier records. The app does not endorse speach recognition and does not has hot keys, though it does allow users records to be imported from third party platform. (2)
 
 ### 8): Aesthetic and minimalist design
 Dialogues should not contain information which is irrelevant or rarely needed. Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility.<br>
 
 >Comment:<br>
->Apple Health app adopts minimalist style which allows features, operations and options to be clearly identified by users. However, it does contain rarely needed information such as organ donations. Perhaps such option is more suitable for real hospitals and shouldn't be listed in a health care app. (2)
+>* Apple Health app adopts minimalist style which allows features, operations and options to be clearly identified by users. However, it does contain rarely needed information such as organ donations. Perhaps such option is more suitable for real hospitals and shouldn't be listed in a health care app. (2)
 
 
 ### 9): Help users recognize, diagnose, and recover from errors
 Error messages should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution. <br>
 
 >Comment:<br>
->The app does not have any error messages and thus will not inform users what exactly is the problem. It also does not provide any suggestions for possible solutions. A good example of a typical error message in health app should notify users common ranges of health data they entered. (2)
+>* The app does not have any error messages and thus will not inform users what exactly is the problem. It also does not provide any suggestions for possible solutions. A good example of a typical error message in health app should notify users common ranges of health data they entered. (2)
 
 ### 10): Help and documentation
 Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large. <br>
 
 >Comment: <br>
->Though the app does offer descriptions and explanations for each measures of body health, it does not provide help and documentation to guide users. Perhaps, it is more convenient to set up help documentations which include concrete steps to help users better understand how to use this app. 
+>* Though the app does offer descriptions and explanations for each measures of body health, it does not provide help and documentation to guide users. Perhaps, it is more convenient to set up help documentations which include concrete steps to help users better understand how to use this app. 
 
 ## Overall Evaluation
 * The Apple health app has a clear core functionality: measure and record a person’s health data. It does have comparetively comprehensive measures of health data which includes multiple health categories while also keeps good health record. The product framework and interfaces are designed minimalistically which minimize users' memory load. However, this app does not has error messages to locate errors, nor does it has help documentations to provide guide for users to use this app.
