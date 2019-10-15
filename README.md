@@ -4,18 +4,18 @@ By Shan Zhong <br>
 For 2019 Fall DH150 User Experience Design final project <br>
 
 ### Basic Information About Apple Health APP
-[URL]:https://www.apple.com/ios/health/ <br>
-App Appearance: <br>
-![WechatIMG579](https://user-images.githubusercontent.com/47996315/66733538-c138ea00-ee14-11e9-9eb7-c738a4f112ae.jpeg)
-Description:<br>
-* Apple Health app consolidates data from iPhone, Apple Watch, and third-party apps that the user already uses. The user can view all his or her progress in one convenient place. The app also provides long-term trends and daily details for a wide range of health metrics. Its offical website offers detailed explanation for its functionalities.
+>[URL]:https://www.apple.com/ios/health/ <br>
+>App Appearance: <br>
+>>![WechatIMG579](https://user-images.githubusercontent.com/47996315/66733538-c138ea00-ee14-11e9-9eb7-c738a4f112ae.jpeg)
+>Description:<br>
+>* Apple Health app consolidates data from iPhone, Apple Watch, and third-party apps that the user already uses. The user can view all his or her progress in one convenient place. The app also provides long-term trends and daily details for a wide range of health metrics. Its offical website offers detailed explanation for its functionalities.
 
 ### Heuristic Evaluation
 #### 1): Visibility of system status
 * The system should always keep users informed about what is going on, through appropriate feedback within reasonable time. <br>
 
-Comment: <br>
-* Apple Health app did a good job in providing feedback from users’ operations, letting the users know that their command has been executed: once the users click the button, the app will highlight and dent the clicked button to inform users that their operation has been received and executed. However, it does not provide a progress bar to tell the user how much time is needed, how many percentages are completed and what it is under processing, though it’s not a big problem since the app reacts fast. (1)
+>Comment: <br>
+>* Apple Health app did a good job in providing feedback from users’ operations, letting the users know that their command has been executed: once the users click the button, the app will highlight and dent the clicked button to inform users that their operation has been received and executed. However, it does not provide a progress bar to tell the user how much time is needed, how many percentages are completed and what it is under processing, though it’s not a big problem since the app reacts fast. (1)
 
 #### 2): Match between system and the real world
 * The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order. <br>
