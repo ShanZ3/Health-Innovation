@@ -1,4 +1,4 @@
-Apple Health APP Evaluation
+iOS Health APP Evaluation
 ============================
 By Shan Zhong <br>
 For 2019 Fall DH150 User Experience Design final project <br>
